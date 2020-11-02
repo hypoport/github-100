@@ -1,6 +1,6 @@
 # Die Ameisen
 
-In Hamburg lebten zwei Ameisen,
+In Hamburg lebten 2 Ameisen,
 Die wollten nach Australien reisen.
 Bei Altona auf der Chaussee,
 Da taten ihnen die Beine weh,
