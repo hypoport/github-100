@@ -10,11 +10,11 @@ this is a readme for something
 
 ### Features
 
-- just two clicks to login
+- just two clicks to log in
 - safe through silent fail
 - good looking
 - show your password input in clear text (use with caution)
-- change your password
+- quick link to change your password
 - self service through password forgotten feature
 - direct links to privacy policy and company info
 
